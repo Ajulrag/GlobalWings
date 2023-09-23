@@ -310,7 +310,7 @@
   
   .header.active {
     position: fixed;
-    background-color: var(--rich-black-fogra-29);
+    background-color: #037a7e;
     animation: headerActive 0.5s ease forwards;
   }
   
@@ -414,7 +414,7 @@
   .hero-banner { display: none; }
   
   .hero {
-    background-color: var(--midnight-green);
+    background-color: #00ACB1;
     --section-padding: 200px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1131,3 +1131,16 @@
     .contact-item { margin-block-start: 0; }
   
   }
+
+
+
+
+
+
+
+
+
+
+
+
+
